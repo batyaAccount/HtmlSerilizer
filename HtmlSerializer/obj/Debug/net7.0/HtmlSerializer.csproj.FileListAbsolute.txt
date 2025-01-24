@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\HtmlSerializer.exe
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\jsonFiles\HtmlTags.json
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\jsonFiles\HtmlVoidTags.json
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\HtmlSerializer.deps.json
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\HtmlSerializer.runtimeconfig.json
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\HtmlSerializer.dll
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net7.0\HtmlSerializer.pdb
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.dll
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\refint\HtmlSerializer.dll
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.pdb
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\user1\Desktop\תקיות\תכנות בתיה\תכנות ו\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net7.0\ref\HtmlSerializer.dll
