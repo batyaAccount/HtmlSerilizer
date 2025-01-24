@@ -32,6 +32,7 @@ foreach (var item in h)
     {
         Console.Write(child + ", ");
     }
+    Console.WriteLine();
 }
 //The function get list of elements in the tree and return the tree in htmlElement type
 static HtmlElement CreateRoot(List<string> htmlLines)
