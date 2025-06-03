@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HtmlSerializer
 {
-    internal class HtmlElement
+    public class HtmlElement
     {
         public string Id { get; set; }
         public string Name { get; set; }
@@ -32,7 +32,7 @@ namespace HtmlSerializer
             Children = new List<HtmlElement>();
             Classes = new List<string>();
             Attributes = new List<string>();
-           
+
         }
         //Get element and return all the descendants by list
         public IEnumerable<HtmlElement> Descendants()
@@ -47,6 +47,7 @@ namespace HtmlSerializer
                     q.Enqueue(child);
                 }
                 yield return el;
+
             }
         }
 
@@ -70,18 +71,18 @@ namespace HtmlSerializer
             {
                 foreach (HtmlElement child in children)
                 {
-                    if (child != null && (s.Id == null || s.Id == child.Id) && (s.TagName == null || s.TagName == child.Name) &&(s.Classes.Count==0|| s.Classes.Any(sClass => child.Classes.Contains(sClass))))
+                    if (child != null && (s.Id == null || s.Id == child.Id) && (s.TagName == null || s.TagName == child.Name) && (s.Classes.Count == 0 || s.Classes.Any(sClass => child.Classes.Contains(sClass))))
                     {
                         htmlElements.Add(child);
                     }
                 }
             }
-             
+
             foreach (HtmlElement child in children)
             {
-                if (child != null && (s.Id == null || s.Id == child.Id) && (s.TagName == null || s.TagName == child.Name) && (s.Classes.Count==0|| s.Classes.Any(sClass => child.Classes.Contains(sClass))))
+                if (child != null && (s.Id == null || s.Id == child.Id) && (s.TagName == null || s.TagName == child.Name) && (s.Classes.Count == 0 || s.Classes.Any(sClass => child.Classes.Contains(sClass))))
                 {
-                    RecoursionTree(s.Child,child,htmlElements);
+                    RecoursionTree(s.Child, child, htmlElements);
                 }
 
             }
@@ -91,7 +92,7 @@ namespace HtmlSerializer
         {
             HashSet<HtmlElement> children = new HashSet<HtmlElement>();
 
-            RecoursionTree(s,this,children);
+            RecoursionTree(s, this, children);
             return children;
         }
     }
